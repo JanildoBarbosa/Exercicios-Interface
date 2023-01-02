@@ -28,6 +28,7 @@ public class Program {
 		CarRental carRental = new CarRental(start, finish, new Vehicle(carModel));
 		
 
+		
 		scanner.close();
 	}
 
